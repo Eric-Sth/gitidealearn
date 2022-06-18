@@ -22,6 +22,9 @@ public class GitMain {
         System.out.println("wanc");
         System.out.println("hotfix");
         System.out.println("hotfixend");
+        System.out.println("feature02 修改");
+        System.out.println("feature-2修改完成");
+
 
     }
 
