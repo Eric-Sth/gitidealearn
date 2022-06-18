@@ -25,7 +25,8 @@ public class GitMain {
         System.out.println("feature02 修改");
         System.out.println("feature-2修改完成");
         System.out.println("feature - 02 第一次修改");
-        System.out.println("feature - 02 第一次修改");
+        System.out.println("feature - 02 第2次修改");
+        System.out.println("feature - 03 第3次修改");
 
 
     }
