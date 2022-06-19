@@ -2,6 +2,8 @@ package com.tencent.test;
 
 public class GitMain {
     public static void main(String[] args) {
+
+        //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  token
         System.out.println("git test");
 
         System.out.println("hello git 2");
