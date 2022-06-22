@@ -37,6 +37,7 @@ public class GitMain {
         System.out.println("hotfix");
 
         System.out.println("Another master change");
+        System.out.println("git stash 测试");
     }
 
 
