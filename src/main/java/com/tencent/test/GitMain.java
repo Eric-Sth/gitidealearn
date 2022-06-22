@@ -38,6 +38,7 @@ public class GitMain {
 
         System.out.println("Another master change");
         System.out.println("git stash 测试");
+        System.out.println("master 修改");
     }
 
 
