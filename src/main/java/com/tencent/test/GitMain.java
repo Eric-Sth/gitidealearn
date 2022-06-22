@@ -36,7 +36,7 @@ public class GitMain {
         System.out.println("master 远程推送");
         System.out.println("hotfix");
 
-
+        System.out.println("Another master change");
     }
 
 
